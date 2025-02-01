@@ -1,0 +1,1 @@
+Number of packets whose source and destinations ports sum is between 10000 and 20000: 137
